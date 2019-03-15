@@ -20,7 +20,7 @@ vRealize Suite is a hybrid cloud management platform that helps IT enable develo
   -  *vRealize Business for Cloud-* Automated costing, usage metering, and service pricing of cloud infrastructure.
   
  #### VMware offers three vRealize Suite editions-
--  *Enterprise Edition:* Supports Application Operations use cases for organizations looking to accelerate application delivery across both traditional and container-based applications. See the Enterprise Edition Product Walkthrough.
+-  *Enterprise Edition:* Supports Application Operations use cases for organizations looking to accelerate application delivery across both traditional and container-based applications. (See the Enterprise Edition Product Walkthrough.)[https://vrealize.vmware.com/t/vrealize-suite-advanced-and-enterprise/]
 
 -  *Advanced Edition:* Supports Programmable Provisioning use cases for companies who need to accelerate the delivery of IT infrastructure services by automating delivery and ongoing management. See the Advanced Edition Product Walkthrough.
 
