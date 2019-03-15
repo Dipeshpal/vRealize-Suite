@@ -9,8 +9,8 @@ vRealize Suite Lifecycle Manager automates install, configuration, upgrade, patc
 
 ## Deploy the vRealize Suite Lifecycle Manager Appliance-
 
-    Deploy the vRealize Suite Lifecycle Manager appliance to begin using vRealize Suite Lifecycle Manager.
-    To create the appliance, you use the vSphere Client to download and deploy a partially configured virtual machine from a template.
+   Deploy the vRealize Suite Lifecycle Manager appliance to begin using vRealize Suite Lifecycle Manager.
+   To create the appliance, you use the vSphere Client to download and deploy a partially configured virtual machine from a template.
 
 #### **Prerequisites**
 
@@ -35,10 +35,11 @@ vRealize Suite Lifecycle Manager automates install, configuration, upgrade, patc
    Typically, there is an option to include or exclude content management. You can select a configuration and mention the change in the number of CPU that is required.
 
 9. Select the storage that will host the appliance.
-10.Select Thick as the disk format.
-   Format does not affect appliance disk size. If an appliance needs more space for data, increase disk size by using vSphere after deploying.
 
-11.From the drop-down menu, select a Destination Network.
+10. Select Thick as the disk format.
+    Format does not affect appliance disk size. If an appliance needs more space for data, increase disk size by using vSphere after deploying.
+
+11. From the drop-down menu, select a Destination Network.
 12. Complete the appliance properties.
     - For Hostname, enter the appliance Fully Qualified Domain Name (FQDN).
     - (Optional) Enter the certificate properties.
