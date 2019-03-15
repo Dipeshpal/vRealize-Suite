@@ -18,7 +18,7 @@ vRealize Suite Lifecycle Manager automates install, configuration, upgrade, patc
 
   - [Download](https://my.vmware.com/group/vmware/details?downloadGroup=VRSLCM-200&productId=787&rPId=28204) vRealize Suite Lifecycle Manager .ovf or .ova file from My VMware to a location accessible to the vSphere Client.
 
-##### Procedure-
+#### Procedure-
 
 1. Select the vSphere Deploy OVF Template.
 2. Enter the path to the vRealize Suite Lifecycle Manager appliance .ovf or .ova file.
