@@ -16,7 +16,7 @@ vRealize Suite Lifecycle Manager automates install, configuration, upgrade, patc
 
   - Log in to the vSphere Client with an account that has permission to deploy OVF templates to the inventory.
 
-  - Download vRealize Suite Lifecycle Manager .ovf or .ova file from My VMware to a location accessible to the vSphere Client.
+  - [Download](https://my.vmware.com/group/vmware/details?downloadGroup=VRSLCM-200&productId=787&rPId=28204) vRealize Suite Lifecycle Manager .ovf or .ova file from My VMware to a location accessible to the vSphere Client.
 
 ##### Procedure-
 
@@ -65,7 +65,7 @@ vRealize Suite Lifecycle Manager automates install, configuration, upgrade, patc
 
 14. Verify that the vRealize Suite Lifecycle Manager appliance is deployed by pinging its FQDN. If you cannot ping the appliance, restart the virtual machine.
 
-  Wait for the virtual machine to start, which might take up to 5 minutes.
+   Wait for the virtual machine to start, which might take up to 5 minutes.
 
 15. Verify that the vRealize Suite Lifecycle Manager appliance is deployed by pinging its FQDN.
 Results
