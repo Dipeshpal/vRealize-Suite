@@ -15,7 +15,7 @@ vRealize Suite is a hybrid cloud management platform that helps IT enable develo
 ### What's Included in vRealize Suite-
   -  *vRealize Automation-* Automated delivery of personalized infrastructure, applications and custom IT services
   -  *vRealize Operations-* Self-driving Operations from applications to infrastructure, using AI / machine learning (ML) based performance and capacity optimization.
-  -  *vRealize Suite Lifecycle Manager-* Automated installation, configuration, upgrade, patch, drift remediation, health, and content management of vRealize products.
+  -  *vRealize Suite Lifecycle Manager-* Automated installation, configuration, upgrade, patch, drift remediation, health, and content management of vRealize products. [Read More](https://github.com/Dipeshpal/vRealize-Suite/blob/master/vRealize%20Suite%20Lifecycle%20Manager%202.0.md)
   -  *vRealize Log Insight-* Real-time log management and log analysis.
   -  *vRealize Business for Cloud-* Automated costing, usage metering, and service pricing of cloud infrastructure.
   
