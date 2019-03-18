@@ -44,6 +44,7 @@ vRealize Suite Lifecycle Manager automates install, configuration, upgrade, patc
     - For Hostname, enter the appliance Fully Qualified Domain Name (FQDN).
     - (Optional) Enter the certificate properties.
     - In Network Properties, when using static IP addresses, enter the values for gateway, Netmask, and DNS servers. You must also enter the IP address, FQDN, and domain for the appliance itself.
+    
     Note: vRealize Suite Lifecycle Manager does not verify the revocation status of the SSL certificates. You must verify the status manually before accepting the certificate.
 
 13. Depending on your deployment, vCenter Server, and DNS configuration, select one of the following ways of finishing deployment and powering up the appliance.
@@ -68,6 +69,7 @@ vRealize Suite Lifecycle Manager automates install, configuration, upgrade, patc
    Wait for the virtual machine to start, which might take up to 5 minutes.
 
 15. Verify that the vRealize Suite Lifecycle Manager appliance is deployed by pinging its FQDN.
+
 Results
 
 16. Log in to vRealize Suite Lifecycle Manager using a supported Web browser. 
