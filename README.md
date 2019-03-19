@@ -1,4 +1,5 @@
 # vRealize-Suite
+Released on 2017, it is Hybrid Cloud Management Platform.
 Basic understanding of vRealize Suite
 
 # Overview-
