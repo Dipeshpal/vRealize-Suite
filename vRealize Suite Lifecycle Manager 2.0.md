@@ -8,6 +8,8 @@ vRealize Suite Lifecycle Manager automates install, configuration, upgrade, patc
    3. Filtering in content management
    4. vRops
    5. Notifications
+   
+   [vRealize Suite Lifecycle Manager 2.0](https://raw.githubusercontent.com/Dipeshpal/vRealize-Suite/master/Raw/vRLCM.PNG)
 
 
 
