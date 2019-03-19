@@ -84,3 +84,6 @@ Results
 
 16. Log in to vRealize Suite Lifecycle Manager using a supported Web browser. 
 
+
+## Configurations and other setups
+[Click here](https://youtu.be/bDSSvSrpn2o)
